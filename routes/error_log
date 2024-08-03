@@ -1,0 +1,44 @@
+[15-Jul-2024 07:51:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cekz6752/public_html/laravel/routes/web.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/web.php on line 10
+[15-Jul-2024 07:51:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cekz6752/public_html/laravel/routes/web.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/web.php on line 10
+[15-Jul-2024 07:51:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cekz6752/public_html/laravel/routes/web.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/web.php on line 10
+[15-Jul-2024 07:51:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/cekz6752/public_html/laravel/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/console.php on line 6
+[15-Jul-2024 07:51:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/cekz6752/public_html/laravel/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/console.php on line 6
+[15-Jul-2024 07:51:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cekz6752/public_html/laravel/routes/web.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/web.php on line 10
+[15-Jul-2024 07:51:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/cekz6752/public_html/laravel/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/console.php on line 6
+[15-Jul-2024 07:51:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/cekz6752/public_html/laravel/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/console.php on line 6
+[15-Jul-2024 07:52:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/cekz6752/public_html/laravel/routes/web.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/web.php on line 10
+[15-Jul-2024 07:52:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/cekz6752/public_html/laravel/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/console.php on line 6
+[15-Jul-2024 10:02:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/cekz6752/public_html/laravel/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/routes/console.php on line 6

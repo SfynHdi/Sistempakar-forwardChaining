@@ -1,0 +1,28 @@
+[15-Jul-2024 07:51:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cekz6752/public_html/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/tests/TestCase.php on line 7
+[15-Jul-2024 07:51:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cekz6752/public_html/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/tests/TestCase.php on line 7
+[15-Jul-2024 07:51:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cekz6752/public_html/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/tests/TestCase.php on line 7
+[15-Jul-2024 07:52:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cekz6752/public_html/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/tests/TestCase.php on line 7
+[15-Jul-2024 10:02:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cekz6752/public_html/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/tests/TestCase.php on line 7
+[15-Jul-2024 10:03:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cekz6752/public_html/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/tests/TestCase.php on line 7
+[15-Jul-2024 10:04:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cekz6752/public_html/laravel/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/tests/TestCase.php on line 7

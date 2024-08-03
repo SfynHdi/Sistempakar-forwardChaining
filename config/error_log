@@ -1,0 +1,124 @@
+[15-Jul-2024 07:51:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 07:51:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 07:51:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 07:52:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 07:52:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 10:02:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/logging.php on line 21
+[15-Jul-2024 10:02:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/auth.php on line 17
+[15-Jul-2024 10:02:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/mail.php on line 17
+[15-Jul-2024 10:02:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/filesystems.php on line 16
+[15-Jul-2024 10:02:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/services.php on line 18
+[15-Jul-2024 10:02:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/auth.php on line 17
+[15-Jul-2024 10:02:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/queue.php on line 16
+[15-Jul-2024 10:03:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/auth.php on line 17
+[15-Jul-2024 10:03:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/cache.php on line 18
+[15-Jul-2024 10:03:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/services.php on line 18
+[15-Jul-2024 10:03:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/filesystems.php on line 16
+[15-Jul-2024 10:03:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/mail.php on line 17
+[15-Jul-2024 10:03:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/queue.php on line 16
+[15-Jul-2024 10:03:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/logging.php on line 21
+[15-Jul-2024 10:03:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/mail.php on line 17
+[15-Jul-2024 10:03:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/auth.php on line 17
+[15-Jul-2024 10:03:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/cache.php on line 18
+[15-Jul-2024 10:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 10:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/session.php on line 21
+[15-Jul-2024 10:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/services.php on line 18
+[15-Jul-2024 10:04:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 10:04:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/session.php on line 21
+[15-Jul-2024 10:04:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/app.php on line 16
+[15-Jul-2024 10:04:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/cache.php on line 18
+[15-Jul-2024 10:04:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/logging.php on line 21
+[15-Jul-2024 10:04:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/cekz6752/public_html/laravel/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cekz6752/public_html/laravel/config/auth.php on line 17
